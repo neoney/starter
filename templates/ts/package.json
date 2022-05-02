@@ -3,7 +3,7 @@
   "version": "0.0.0",
   "packageManager": "pnpm@6.32.3",
   "description": "",
-  "keywords": ["CIM", "BIM", "Web"],
+  "keywords": [],
   "homepage": "https://github.com/neoney/[name]#readme",
   "bugs": {
     "url": "https://github.com/neoney/[name]/issues"
