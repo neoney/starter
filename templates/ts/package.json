@@ -1,18 +1,18 @@
 {
-  "name": "cim.js",
+  "name": "[name]",
   "version": "0.0.0",
   "packageManager": "pnpm@6.32.3",
   "description": "",
   "keywords": ["CIM", "BIM", "Web"],
-  "homepage": "https://github.com/neoney/cim.js#readme",
+  "homepage": "https://github.com/neoney/[name]#readme",
   "bugs": {
-    "url": "https://github.com/neoney/cim.js/issues"
+    "url": "https://github.com/neoney/[name]/issues"
   },
   "license": "MIT",
   "author": "neo <zoobile@gmail.com>",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/neoney/cim.js.git"
+    "url": "git+https://github.com/neoney/[name].git"
   },
   "funding": "https://github.com/sponsors/neoney",
   "main": "./dist/index.cjs",
