@@ -1,0 +1,14 @@
+{
+  "name": "starter",
+  "version": "1.0.0",
+  "description": "All templates for startup.",
+  "main": "index.js",
+  "private": true,
+  "workspaces": ["templates/*"],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["starter", "templates"],
+  "author": "",
+  "license": "ISC"
+}
